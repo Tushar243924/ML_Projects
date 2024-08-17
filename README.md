@@ -1,4 +1,4 @@
-# ML_Projects Details
+# Machine Learning (ML) Projects Details
 
 ## **1. ML Models for Credit Card fraud detection:**
 ### **Dataset** 
